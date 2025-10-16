@@ -1,2 +1,2 @@
-Grupo: Daniel Sánchez, trabajé solo. Disculpe las molestías, en la próxima trabajo en grupo. 
+Grupo: Daniel Sánchez. Trabajaré en grupo para el próximo proyecto, desculpe las molestias. 
 Técnicas de Programación y Laboratorio G1. 
